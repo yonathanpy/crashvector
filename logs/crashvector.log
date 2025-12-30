@@ -1,0 +1,8 @@
+2025-12-30 09:59:31,985 | INFO | Crash: Segmentation fault: invalid memory access
+2025-12-30 09:59:31,985 | INFO | Pattern: unknown
+2025-12-30 09:59:31,985 | INFO | Exploitability Risk: LOW
+2025-12-30 10:05:45,537 | INFO | Signal: SIGSEGV
+2025-12-30 10:05:45,537 | INFO | Pattern: unknown
+2025-12-30 10:05:45,537 | INFO | Protections: {'canary': False, 'nx': True, 'pie': True}
+2025-12-30 10:05:45,537 | INFO | Exploitability: LOW
+2025-12-30 10:19:40,644 | INFO | Signal=ERROR, Pattern=unknown, Risk=LOW
